@@ -1,0 +1,5 @@
+^docs$
+^_pkgdown\.yml$
+^cran-comments\.md$
+^swipeR\.Rproj$
+^\.Rproj\.user$
