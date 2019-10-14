@@ -9,7 +9,7 @@
 You can install the latest version of swipeR from github:
 
 ``` r
-devtools::install:github("RinteRface/swipeR")
+devtools::install_github("RinteRface/swipeR")
 ```
 
 ## Example
